@@ -2,10 +2,12 @@
 
 # Toturial
 
-### Step1 go to your kmf Reading Records Page
+## Step1
+### go to your kmf Reading Records Page
 ![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/img/web-1.png)
 
-### Step2 add script to the bookmark
+## Step2
+### add script to the bookmark
 ### ( file - "script.js" the second line script for chrome)
 ![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/img/bookmark.png)
 
