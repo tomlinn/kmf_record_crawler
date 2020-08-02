@@ -14,5 +14,8 @@
 ### how it works
 ![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/tutorial_800.gif)
 
+### Templete for google sheet
+https://docs.google.com/spreadsheets/d/1m_5K7j3u8CuNkwJy-enYOINiqIwlgM3UepBX6J0ybB4/edit#gid=0
+
 ### Success
 ![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/img/google_sheet.png)
