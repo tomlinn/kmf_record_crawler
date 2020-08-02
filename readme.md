@@ -20,7 +20,7 @@
 ### Templete for google sheet 
 ### ( Plz create a copy to your account )
 https://docs.google.com/spreadsheets/d/1m_5K7j3u8CuNkwJy-enYOINiqIwlgM3UepBX6J0ybB4/edit#gid=0
-![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/templete.png)
+![image](https://github.com/tomlinn/kmf_record_crawler/blob/master/img/templete.png)
 
 ### 使用教學
 ### how it works
