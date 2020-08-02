@@ -2,7 +2,7 @@
 ##### 將考滿分的閱讀做題紀錄 "一鍵擷取並複製" 使可以快速轉存到Google sheet or Excel
 ##### purpose: get my kmf reading records into google sheet or Excel to alaysis
 
-# Toturial
+# Tutorial
 
 ## Step1
 ### 去考滿分的做題紀錄頁面
